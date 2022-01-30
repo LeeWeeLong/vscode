@@ -1,14 +1,16 @@
 {
-  // for prefer theme material theme Palenight high contrast
+  // for prefer theme material theme Palenight high contrast macos
     "workbench.colorCustomizations": {
         "[Material Theme*]": {
-            "sideBarSectionHeader.foreground": "#09f7cf",
             "tab.activeForeground": "#09f7cf",
             "tab.activeBorder": "#48f0d4",
             "list.focusOutline": "#09f7cf",
             "list.activeSelectionForeground": "#09f7cf",
             "list.inactiveFocusOutline": "#d9ed92",
-            "sideBar.foreground": "#43aa8b",
+            "sideBar.foreground": "#399b7d",
+            "sideBarSectionHeader.foreground": "#34a0a4",
+            "gitDecoration.modifiedResourceForeground": "#3296cf",
+            "gitDecoration.untrackedResourceForeground": "#db9cce"
         }
     },
 }
