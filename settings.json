@@ -1,0 +1,14 @@
+{
+  // for prefer theme material theme Palenight high contrast
+    "workbench.colorCustomizations": {
+        "[Material Theme*]": {
+            "sideBarSectionHeader.foreground": "#09f7cf",
+            "tab.activeForeground": "#09f7cf",
+            "tab.activeBorder": "#48f0d4",
+            "list.focusOutline": "#09f7cf",
+            "list.activeSelectionForeground": "#09f7cf",
+            "list.inactiveFocusOutline": "#d9ed92",
+            "sideBar.foreground": "#43aa8b",
+        }
+    },
+}
