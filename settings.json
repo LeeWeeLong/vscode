@@ -1,16 +1,19 @@
 {
   // for prefer theme material theme Palenight high contrast macos
     "workbench.colorCustomizations": {
-        "[Material Theme*]": {
+        "[Material Theme*]":{
+            "sideBar.foreground": "#9aa3a1",
+            "sideBarSectionHeader.foreground": "#34a0a4",
             "tab.activeForeground": "#09f7cf",
             "tab.activeBorder": "#48f0d4",
-            "list.focusOutline": "#09f7cf",
-            "list.activeSelectionForeground": "#09f7cf",
+            "tab.activeBorderTop": "#48f0d4", 
             "list.inactiveFocusOutline": "#d9ed92",
-            "sideBar.foreground": "#399b7d",
-            "sideBarSectionHeader.foreground": "#34a0a4",
-            "gitDecoration.modifiedResourceForeground": "#3296cf",
-            "gitDecoration.untrackedResourceForeground": "#db9cce"
+            "list.activeSelectionForeground": "#09f7cf",
+            "list.hoverForeground": "#09f7cf",
+            "list.focusOutline": "#09f7cf",
+            "gitDecoration.modifiedResourceForeground": "#2ea5eb",
+            "gitDecoration.untrackedResourceForeground": "#db9cce",
+            "editorLineNumber.foreground": "#999999"
         }
     },
 }
